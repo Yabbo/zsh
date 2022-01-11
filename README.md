@@ -1,5 +1,4 @@
 # zsh
-zsh configs
 
 ![Arch Linux](https://s3.amazonaws.com/vanillasystem.cloud/github-images/arch-zsh.png)<br>
 ![Manjaro](https://s3.amazonaws.com/vanillasystem.cloud/github-images/manjaro-zsh.png)<br>
