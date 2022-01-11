@@ -10,11 +10,11 @@ if [[ -e /usr/share/zsh/manjaro-zsh-prompt ]]; then
 fi
 source <(kubectl completion zsh)
 
-export PATH=/home/yabbo/.cargo/bin:$PATH
+#export PATH= ~/.cargo/bin:$PATH
 
-neofetch
+#neofetch
 
 #alias ls="exa -hg -s=type --git -l"
 
-alias ls="lsd -F"
-alias cat="bat"
+#alias ls="lsd -F"
+#alias cat="bat"
